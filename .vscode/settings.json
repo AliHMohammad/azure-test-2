@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/0483f17d-b8ed-4b3e-9639-e4396a617e40/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/ali-node-test2",
+    "appService.deploySubpath": "."
+}
